@@ -1,4 +1,4 @@
-Country,Year,GDP_per_capita,Population,Female_population,Male_population,Life_expectancy,GDP(inflation_adjusted),External_debt,Agriculture(percent_of_GDP),Industry(percent_of_GDP),Service(percent_of_GDP),Imports(percent_of_GDP),Exports(percent_of_GDP),Continent
+Country,Year,"GDP Per Capita",Population,"Female Population","Male Population","Life Expectancy","GDP (inflation adjusted)","External Debt","Agriculture (percent of GDP)","Industry (percent of GDP)","Service (percent of GDP)","Imports (percent of GDP)","Exports (percent of GDP)",Continent
 Albania,1/1/1996,4326,3112597,1546609,1559287,73.9,3083504202,490915000,33.02560989,20.16527064,46.80911947,35.23078755,12.31651656,Europe
 Albania,1/1/1998,4434,3079037,1540419,1535209,73.8,3120648082,626487000,32.60271937,16.02778772,51.36949291,34.37350669,10.76140285,Europe
 Albania,1/1/2000,5305,3071856,1542764,1524792,74.2,3686649387,1060765000,29.13058321,19.00922719,51.8601896,37.48980373,19.13553544,Europe
